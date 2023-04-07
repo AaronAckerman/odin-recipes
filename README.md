@@ -1,2 +1,4 @@
 # odin-recipes
-Design recipes pages and utilize basics of HTML
+Utilize basics of HTML and design recipes pages
+###### Live Preview
+https://aaronackerman.github.io/odin-recipes/
